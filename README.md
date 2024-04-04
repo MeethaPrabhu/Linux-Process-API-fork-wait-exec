@@ -70,12 +70,6 @@ int main() {
 ## OUTPUT
 ![](Screenshot%20from%202024-04-04%2015-36-43.png)
 
-
-
-
-
-
-
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```C
 #include <stdio.h>
