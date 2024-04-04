@@ -40,7 +40,7 @@ int main(void)
 }
 ```
 ## OUTPUT
-![Op](./Screenshot%20from%202024-04-04%2015-34-34.png)
+![](Screenshot%20from%202024-04-04%2015-34-34.png)
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```c
@@ -68,7 +68,7 @@ int main() {
 }
 ```
 ## OUTPUT
-![Op](./Screenshot%20from%202024-04-04%2015-36-43.png)
+![](Screenshot%20from%202024-04-04%2015-36-43.png)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```C
@@ -101,7 +101,7 @@ int main() {
 }
 ```
 ## OUTPUT
-![Op](./Screenshot%20from%202024-04-04%2015-38-30.png)
+![](Screenshot%20from%202024-04-04%2015-38-30.png)
 
 # RESULT:
 The programs are executed successfully.
